@@ -3007,7 +3007,7 @@ input, select, textarea {
 
 			.spotlight .image img {
 				display: block;
-				border-radius: 100%;
+/*				border-radius: 100%;*/
 				width: 16em;
 			}
 
@@ -3576,9 +3576,9 @@ input, select, textarea {
 			border-color: #dddddd;
 		}
 
-		#main .spotlight .image {
+/*		#main .spotlight .image {
 			border-color: #dddddd;
-		}
+		}*/
 
 		#main > .main {
 			padding: 5em 5em 3em 5em ;
